@@ -1,0 +1,17 @@
+# Virtual Env
+venv/*
+
+# Django
+chatapp/__pycache__/*
+chatapp/*/migrations/*
+chatapp/*/__init__.py
+chatapp/*/settings/__init__.py
+chatapp/*/*/*/__pycache__/*
+chatapp/*/*/__pycache__/*
+chatapp/*/__pycache__/*
+chatapp/django-static/*
+db.sqlite3
+
+# Others
+.vscode
+.DS_Store
